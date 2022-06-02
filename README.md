@@ -1,5 +1,5 @@
 # blackjack_OOP
-blackjack (OOP Python)
+Object Oriented Programming Exercise
 
 This project encapsulates the basic concepts of object oriented programming in Python. Concepts include data types (dictionaries), classes and objects, attributes, properties, constructors, methods and inheritance.
 
